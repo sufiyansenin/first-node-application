@@ -1,0 +1,22 @@
+{
+  "name": "first-node-application",
+  "version": "1.0.0",
+  "description": "CE5 Lesson 3.3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sufiyansenin/first-node-application.git"
+  },
+  "author": "Sufiyan Senin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sufiyansenin/first-node-application/issues"
+  },
+  "homepage": "https://github.com/sufiyansenin/first-node-application#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
